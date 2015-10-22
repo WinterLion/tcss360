@@ -6,11 +6,11 @@
 /**
  * Represents a burger at the Burger Baron. 
  *
- * @author Shannon Murphy
+ * @author Shannon Murphy, quinn
  * @version April 8, 2015
  * 
  * 
- * uf;kdsajf;askj
+ * 
  *
  */
 public class Burger {
